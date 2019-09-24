@@ -1,4 +1,4 @@
-# furry-succotash
+# fury-succotash
 package com.briup;
 
 import java.io.*;
