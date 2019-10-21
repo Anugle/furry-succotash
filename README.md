@@ -1,1 +1,1 @@
-# fury-succotash
+# furry-succotash
